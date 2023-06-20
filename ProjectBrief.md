@@ -1,2 +1,2 @@
-# ProjectBrief : To translate wireframe mockup into live code.
-# Technologies: HTML & CSS.
+* Project brief : To translate wireframe mockup into live code.
+* Technologies: HTML & CSS.
